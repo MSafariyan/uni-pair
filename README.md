@@ -2,4 +2,5 @@
 This is a test repository designed to complete a university assignment.
 ---
 Author:
-M. Safarian
+M. Safarian,
+S. Amir H Mousavi
