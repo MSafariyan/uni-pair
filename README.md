@@ -6,3 +6,7 @@ Author:
 M. Safarian - ma.hiccup@gmail.com,
 
 S. Amir H Mousavi - amirmousavi0003@gmail.com
+
+---
+## What is git snapshot
+[git.md](git.md)
