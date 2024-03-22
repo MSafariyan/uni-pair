@@ -2,5 +2,7 @@
 This is a test repository designed to complete a university assignment.
 ---
 Author:
-M. Safarian,
+
+M. Safarian - ma.hiccup@gmail.com,
+
 S. Amir H Mousavi
