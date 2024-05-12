@@ -1,4 +1,4 @@
-# Git tutorial for newbies
+## Git tutorial for newbies
 While many people perceive Git as a confusing and complicated tool, it's actually quite simple once you become more familiar with it. Like many other areas of knowledge, all it takes is getting accustomed to it. Trust me, it's not as tangled as quantum physics.
 
 ---
